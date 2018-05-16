@@ -1,0 +1,12 @@
+fr/epsi/dao/CardDao.class
+fr/epsi/model/Channel.class
+fr/epsi/dao/UserDao.class
+fr/epsi/model/Card.class
+fr/epsi/dao/AbstractDao.class
+fr/epsi/utils/HibernateUtil.class
+fr/epsi/model/User.class
+fr/epsi/dao/MessageDao.class
+fr/epsi/dao/ChannelDao.class
+fr/epsi/dao/AdminDao.class
+fr/epsi/model/Admin.class
+fr/epsi/model/Message.class

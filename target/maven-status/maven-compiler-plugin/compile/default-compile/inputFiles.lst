@@ -1,0 +1,12 @@
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/utils/HibernateUtil.java
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/dao/CardDao.java
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/model/Channel.java
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/dao/UserDao.java
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/dao/AdminDao.java
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/dao/AbstractDao.java
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/model/Admin.java
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/model/Message.java
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/model/Card.java
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/dao/ChannelDao.java
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/dao/MessageDao.java
+/Users/maximecroteau/Documents/ORM/src/main/java/fr/epsi/model/User.java
